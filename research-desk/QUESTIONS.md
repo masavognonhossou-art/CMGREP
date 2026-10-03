@@ -2,6 +2,23 @@
 
 Claude pulls from this when you drop a signal. Not every question every time. Pick the 5–8 that would most change the verdict.
 
+## Burner check (Track A, from Kane's criteria)
+- What do the top "where do I buy" / "link?" comments say exactly? How many likes do they have?
+- Roughly how many high-intent comments on the best video, and how many views?
+- Did you tap a few commenters' profiles? Do they look like buyers in the countries you ship to?
+- When did the seller last post? Within 24 hours?
+- Are their videos from *this week* still going viral, or only older ones?
+- If they stopped posting or stopped going viral: did they move platforms, or did the content go stale?
+- Search the product name and the video's on-screen text. How many other accounts come up? How many are still posting?
+- Is the main seller a big account (20K+ followers) posting on only one platform?
+
+## Finds check (Track B)
+- Can you describe the hook and the first 3 seconds of our video right now?
+- What similar product has already gone viral? What movements and structure did it use?
+- How many orders does it show on AliExpress or Amazon?
+- Is a branded version already cheap at Walmart, Costco or Target?
+- Has a similar product flopped? Why would ours be different?
+
 ## About the signal itself
 - Where exactly did you see it? (Platform, account, ad vs organic)
 - When did you first notice it, and have you seen it again since? Rising or same?

@@ -5,17 +5,18 @@ The desk's memory. Newest entries on top within each section. Claude appends her
 ## Open questions about the operator
 Things the desk still needs to know about you, your business and constraints. Answers go into "Operator profile" below.
 
-- [ ] Business model (dropshipping, own stock, TikTok Shop affiliate, Amazon, POD, other)
-- [ ] Main sales channel and ad channel
+- [x] Business model: organic dropshipping (inferred from Kane's criteria, **confirm**)
+- [ ] Which platforms you post on (TikTok, Reels, Shorts), and whether you have a burner account set up
 - [ ] Store type (general, niche, one-product)
-- [ ] Test budget per product, and total Q4 budget
+- [ ] Do you have accounts with followers already, or starting fresh? Do you use creators?
 - [ ] Fulfillment setup and delivery times (China, US agent, 3PL, own stock)
 - [ ] Past winners and losers, and why
 - [ ] Niches you know well or have audience in
 - [ ] Hard no's (categories you won't touch)
 
 ## Operator profile
-_Not filled in yet._
+- **Model:** organic dropshipping, Kane-style (inferred 2026-10-03, not yet confirmed)
+- **Product criteria:** Kane's burner and finds criteria, now doctrine §4
 
 ---
 
@@ -37,9 +38,8 @@ Raw sightings. No judgment yet.
 
 | ID | Candidate (one-line hypothesis) | Score /100 | Stage | Verdict | Next action | Re-check date |
 |---|---|---|---|---|---|---|
-| C-001 | Unbranded "launch night" kit (neon/synthwave decor, charging dock, do-not-disturb merch) for console gamers and the partners buying for them, around GTA VI on Nov 19 | ~68 (prelim) | Candidate | TEST pending | Operator answers; source samples by ~Oct 10 | 2026-10-10 |
-| C-002 | Accessories for retro handhelds (cases, grips, screen protectors), not the devices | ~62 (prelim) | Candidate | TEST pending | Check Amazon/TikTok reviews of R36S & Anbernic cases | 2026-10-10 |
-| C-003 | Cozy gaming setup gifts (pastel/wood Switch 2 cases, lap desks, ambient lights) for women gamers, bought by partners and parents | ~74 (prelim) | Candidate | TEST, leaning RUN | Meta Ad Library & TikTok Shop sweep | 2026-10-10 |
+| C-001 | Unbranded "launch night" kit (neon/synthwave decor, charging dock, do-not-disturb merch) for console gamers and the partners buying for them, around GTA VI on Nov 19 | Unscored | Organic gate, Track B | Gate pending | Burner search: who's posting GTA-launch gifts? Find a viral similar product for proof of concept | 2026-10-10 |
+| C-003 | Cozy gaming setup gifts (pastel/wood Switch 2 cases, lap desks, ambient lights) for women gamers, bought by partners and parents | Unscored | Organic gate | Gate pending, strongest lead | Burner search "cozy gaming setup": count sellers posting in last 24h and "where do I buy" comments | 2026-10-10 |
 
 ---
 
@@ -50,7 +50,9 @@ Full write-ups (scorecard breakdown, red team, angles) go below, one heading per
 ### C-001 · Product name
 **Hypothesis:** [Product] for [person] who wants [outcome], sold as [angle], at [price].
 **Signals:** …
-**Scorecard:** Demand x/15 · Wow x/12 · Margin x/12 · Q4 fit x/12 · Angles x/10 · Headroom x/10 · Fulfillment x/8 · Problem x/8 · AOV x/7 · Risk x/6 = **xx/100**
+**Track:** A (burner) / B (find)
+**Organic gate:** A1 demand … · A2 buyer markets … · A3 ratio … · A4 posting … · A5 viral … · A6 broad … · A7 saturation … · A8 primed … (or B1–B4)
+**Scorecard:** Demand x/15 · Live proof x/12 · Wow x/10 · Broad x/10 · Headroom x/10 · Content x/10 · Margin x/8 · Q4 x/8 · Fulfillment x/7 · Purchase reality x/6 · Risk x/4 = **xx/100**
 **Angles:** 1) … 2) … 3) …
 **Red team:** 1) … → answer 2) … → answer 3) … → answer
 **Verdict:** RUN / TEST / WATCH / KILL, because …
@@ -63,7 +65,7 @@ Killed candidates and the reason, so we don't revisit them.
 
 | Date | Candidate | Cause of death |
 |---|---|---|
-| | | |
+| 2026-10-03 | C-002 Retro handheld accessories | Fails A6: audience too narrow for organic (cases for a $30 device are a quick-flip niche). The device itself mostly sells with preloaded pirated games, which is an IP hard kill |
 
 ---
 
@@ -71,3 +73,4 @@ Killed candidates and the reason, so we don't revisit them.
 | Date | Change | Why |
 |---|---|---|
 | 2026-10-03 | v0.1 created | Initial setup |
+| 2026-10-03 | v0.2: added organic gate (Kane's criteria), organic scorecard, re-ranked signal sources | User shared Kane's product criteria; desk runs organic dropshipping |
