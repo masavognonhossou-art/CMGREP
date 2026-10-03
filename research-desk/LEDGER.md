@@ -24,7 +24,12 @@ Raw sightings. No judgment yet.
 
 | Date | Signal | Source | Hard number | Logged by | → Candidate? |
 |---|---|---|---|---|---|
-| | | | | | |
+| 2026-10-03 | GTA VI launches Nov 19 on PS5/Xbox, no delay as of Oct 1 | Take-Two/Rockstar statements via Tom's Guide, The Shortcut | Take-Two expects "record" year off this launch | Claude (Scout) | C-001 |
+| 2026-10-03 | Official GTA VI DualSense controllers ($84.99) on pre-order since Sep 10, reported sold out at some retailers | TechRadar, netzwelt.de | $84.99, limited quantities | Claude (Scout) | C-001 |
+| 2026-10-03 | PS5 raised to $649.99 (Apr 2026); console sales down 16% in last holiday quarter | Reuters via Tuoi Tre, Checkpoint Gaming | +$100 price hike | Claude (Scout) | Context: gift budgets move to accessories |
+| 2026-10-03 | Retro handheld market ~$4.18B in 2026, +21% in 2025; R36S ~$30, Anbernic RG SP $64.99 | Olhar Digital (Aug 2026), Tech Insider | R36S ~277k monthly sales (one tracker, unverified) | Claude (Scout) | C-002 |
+| 2026-10-03 | Spending on console cases/organizers up 180% YoY (March 2026); accessories +5% to $252M | Insider Gaming (Circana data) | +180% cases/organizers | Claude (Scout) | C-003 |
+| 2026-10-03 | Cozy gaming: wood/green/pastel looks lead; comfort accessories +42% YoY | GameSpace, Alibaba trend report | 42% YoY (supplier data, weak source) | Claude (Scout) | C-003 |
 
 ---
 
@@ -32,7 +37,9 @@ Raw sightings. No judgment yet.
 
 | ID | Candidate (one-line hypothesis) | Score /100 | Stage | Verdict | Next action | Re-check date |
 |---|---|---|---|---|---|---|
-| | | | | | | |
+| C-001 | Unbranded "launch night" kit (neon/synthwave decor, charging dock, do-not-disturb merch) for console gamers and the partners buying for them, around GTA VI on Nov 19 | ~68 (prelim) | Candidate | TEST pending | Operator answers; source samples by ~Oct 10 | 2026-10-10 |
+| C-002 | Accessories for retro handhelds (cases, grips, screen protectors), not the devices | ~62 (prelim) | Candidate | TEST pending | Check Amazon/TikTok reviews of R36S & Anbernic cases | 2026-10-10 |
+| C-003 | Cozy gaming setup gifts (pastel/wood Switch 2 cases, lap desks, ambient lights) for women gamers, bought by partners and parents | ~74 (prelim) | Candidate | TEST, leaning RUN | Meta Ad Library & TikTok Shop sweep | 2026-10-10 |
 
 ---
 
